@@ -1,20 +1,21 @@
-auth-java
-Configure um novo projeto Spring Boot.
+#auth-java
 
-Adicione as dependências necessárias.
+1.Configure um novo projeto Spring Boot.
 
-Configure as propriedades da aplicação.
+2.Adicione as dependências necessárias.
 
-Crie modelos e repositórios.
+3.Configure as propriedades da aplicação.
 
-Implemente as classes utilitárias do JWT.
+4.Crie modelos e repositórios.
 
-Configure o Spring Security.
+5.Implemente as classes utilitárias do JWT.
 
-Crie controladores de autenticação.
+6.Configure o Spring Security.
 
-Proteja os endpoints REST.
+7.Crie controladores de autenticação.
 
-Forneça um repositório no GitHub.
+8.Proteja os endpoints REST.
 
-Teste a aplicação e forneça uma coleção no Postman para testes.
+9.Forneça um repositório no GitHub.
+
+10.Teste a aplicação e forneça uma coleção no Postman para testes.
