@@ -1,0 +1,19 @@
+{
+    "properties": [
+        {
+            "name": "security.jwt.secret-key",
+            "type": "java.lang.String",
+            "description": "A description for 'security.jwt.secret-key'"
+        },
+        {
+            "name": "security.jwt.expiration-time",
+            "type": "java.lang.String",
+            "description": "A description for 'security.jwt.expiration-time'"
+        },
+        {
+            "name": "hibernate.transaction.jta.platform",
+            "type": "java.lang.String",
+            "description": "A description for 'hibernate.transaction.jta.platform'"
+        }
+    ]
+}
